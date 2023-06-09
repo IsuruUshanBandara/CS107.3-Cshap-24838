@@ -1,0 +1,8 @@
+D:\NSBM_ISURU\Degree\Second_semester_year1\Object Oriented Programming with (C#)\tutorial and labs\task2\task2\bin\Debug\task2.exe.config
+D:\NSBM_ISURU\Degree\Second_semester_year1\Object Oriented Programming with (C#)\tutorial and labs\task2\task2\bin\Debug\task2.exe
+D:\NSBM_ISURU\Degree\Second_semester_year1\Object Oriented Programming with (C#)\tutorial and labs\task2\task2\bin\Debug\task2.pdb
+D:\NSBM_ISURU\Degree\Second_semester_year1\Object Oriented Programming with (C#)\tutorial and labs\task2\task2\obj\Debug\task2.csproj.AssemblyReference.cache
+D:\NSBM_ISURU\Degree\Second_semester_year1\Object Oriented Programming with (C#)\tutorial and labs\task2\task2\obj\Debug\task2.csproj.SuggestedBindingRedirects.cache
+D:\NSBM_ISURU\Degree\Second_semester_year1\Object Oriented Programming with (C#)\tutorial and labs\task2\task2\obj\Debug\task2.csproj.CoreCompileInputs.cache
+D:\NSBM_ISURU\Degree\Second_semester_year1\Object Oriented Programming with (C#)\tutorial and labs\task2\task2\obj\Debug\task2.exe
+D:\NSBM_ISURU\Degree\Second_semester_year1\Object Oriented Programming with (C#)\tutorial and labs\task2\task2\obj\Debug\task2.pdb
