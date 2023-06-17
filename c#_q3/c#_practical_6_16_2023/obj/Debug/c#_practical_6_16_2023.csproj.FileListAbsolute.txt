@@ -1,0 +1,8 @@
+D:\NSBM_ISURU\Degree\Second_semester_year1\Object Oriented Programming with (C#)\praticals\c#_practical_6_16_2023\c#_practical_6_16_2023\bin\Debug\c#_practical_6_16_2023.exe.config
+D:\NSBM_ISURU\Degree\Second_semester_year1\Object Oriented Programming with (C#)\praticals\c#_practical_6_16_2023\c#_practical_6_16_2023\bin\Debug\c#_practical_6_16_2023.exe
+D:\NSBM_ISURU\Degree\Second_semester_year1\Object Oriented Programming with (C#)\praticals\c#_practical_6_16_2023\c#_practical_6_16_2023\bin\Debug\c#_practical_6_16_2023.pdb
+D:\NSBM_ISURU\Degree\Second_semester_year1\Object Oriented Programming with (C#)\praticals\c#_practical_6_16_2023\c#_practical_6_16_2023\obj\Debug\c#_practical_6_16_2023.csproj.AssemblyReference.cache
+D:\NSBM_ISURU\Degree\Second_semester_year1\Object Oriented Programming with (C#)\praticals\c#_practical_6_16_2023\c#_practical_6_16_2023\obj\Debug\c#_practical_6_16_2023.csproj.SuggestedBindingRedirects.cache
+D:\NSBM_ISURU\Degree\Second_semester_year1\Object Oriented Programming with (C#)\praticals\c#_practical_6_16_2023\c#_practical_6_16_2023\obj\Debug\c#_practical_6_16_2023.csproj.CoreCompileInputs.cache
+D:\NSBM_ISURU\Degree\Second_semester_year1\Object Oriented Programming with (C#)\praticals\c#_practical_6_16_2023\c#_practical_6_16_2023\obj\Debug\c#_practical_6_16_2023.exe
+D:\NSBM_ISURU\Degree\Second_semester_year1\Object Oriented Programming with (C#)\praticals\c#_practical_6_16_2023\c#_practical_6_16_2023\obj\Debug\c#_practical_6_16_2023.pdb

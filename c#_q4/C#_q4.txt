@@ -1,0 +1,1 @@
+The method will not be able to access because the method is private and private methods cannot be accessed directly out side the class but can be accessed inside the class where the method is and in order to access it outside the class a public method can be also useful.
