@@ -1,0 +1,8 @@
+D:\NSBM_ISURU\Degree\Second_semester_year1\Object Oriented Programming with (C#)\praticals\Lab6_q6\Lab6_q6\bin\Debug\Lab6_q6.exe.config
+D:\NSBM_ISURU\Degree\Second_semester_year1\Object Oriented Programming with (C#)\praticals\Lab6_q6\Lab6_q6\bin\Debug\Lab6_q6.exe
+D:\NSBM_ISURU\Degree\Second_semester_year1\Object Oriented Programming with (C#)\praticals\Lab6_q6\Lab6_q6\bin\Debug\Lab6_q6.pdb
+D:\NSBM_ISURU\Degree\Second_semester_year1\Object Oriented Programming with (C#)\praticals\Lab6_q6\Lab6_q6\obj\Debug\c#_q6.csproj.AssemblyReference.cache
+D:\NSBM_ISURU\Degree\Second_semester_year1\Object Oriented Programming with (C#)\praticals\Lab6_q6\Lab6_q6\obj\Debug\c#_q6.csproj.SuggestedBindingRedirects.cache
+D:\NSBM_ISURU\Degree\Second_semester_year1\Object Oriented Programming with (C#)\praticals\Lab6_q6\Lab6_q6\obj\Debug\c#_q6.csproj.CoreCompileInputs.cache
+D:\NSBM_ISURU\Degree\Second_semester_year1\Object Oriented Programming with (C#)\praticals\Lab6_q6\Lab6_q6\obj\Debug\Lab6_q6.exe
+D:\NSBM_ISURU\Degree\Second_semester_year1\Object Oriented Programming with (C#)\praticals\Lab6_q6\Lab6_q6\obj\Debug\Lab6_q6.pdb
