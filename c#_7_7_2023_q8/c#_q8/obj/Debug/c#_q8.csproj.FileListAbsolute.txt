@@ -1,0 +1,8 @@
+E:\NSBM\Degree\Second_semester_year1\Object Oriented Programming with (C#)\praticals\c#_q8\c#_q8\bin\Debug\c#_q8.exe.config
+E:\NSBM\Degree\Second_semester_year1\Object Oriented Programming with (C#)\praticals\c#_q8\c#_q8\bin\Debug\c#_q8.exe
+E:\NSBM\Degree\Second_semester_year1\Object Oriented Programming with (C#)\praticals\c#_q8\c#_q8\bin\Debug\c#_q8.pdb
+E:\NSBM\Degree\Second_semester_year1\Object Oriented Programming with (C#)\praticals\c#_q8\c#_q8\obj\Debug\c#_q8.csproj.AssemblyReference.cache
+E:\NSBM\Degree\Second_semester_year1\Object Oriented Programming with (C#)\praticals\c#_q8\c#_q8\obj\Debug\c#_q8.csproj.SuggestedBindingRedirects.cache
+E:\NSBM\Degree\Second_semester_year1\Object Oriented Programming with (C#)\praticals\c#_q8\c#_q8\obj\Debug\c#_q8.csproj.CoreCompileInputs.cache
+E:\NSBM\Degree\Second_semester_year1\Object Oriented Programming with (C#)\praticals\c#_q8\c#_q8\obj\Debug\c#_q8.exe
+E:\NSBM\Degree\Second_semester_year1\Object Oriented Programming with (C#)\praticals\c#_q8\c#_q8\obj\Debug\c#_q8.pdb
